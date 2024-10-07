@@ -132,7 +132,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Dice gen.cpp" />
+    <ClCompile Include="week3_4.cpp" />
+    <ClCompile Include="week3_1.cpp" />
+    <ClCompile Include="week3_2.cpp" />
+    <ClCompile Include="Week3_3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
